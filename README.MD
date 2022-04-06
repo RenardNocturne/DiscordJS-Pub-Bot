@@ -1,4 +1,5 @@
 <h1 align="center">DiscordJS Pub Bot</h1>
+<p align="center"><strong>❓ Un bot vous permettant de gérer votre serveur de pub ! ❓</strong></p>
 
 <hr>
 
@@ -33,7 +34,7 @@ Tout ce que vous avez à faire est de **suivre les [Instructions](#instructions)
 
 ## 🎉 Profitez bien ! <a name="enjoy">
 Maintenant, vous devriez voir apparaître ceci dans votre invite de commande:
-![Result Image](LINK)
+![Result Image](https://github.com/RenardNocturne/DiscordJS-Pub-Bot/blob/master/Images/Result.jpg)
 
 > Si ce n'est pas la cas, merci [d'ouvrir une issue](https://github.com/RenardNocturne/DiscordJS-Pub-Bot/issues) !<br>
 > Si ce projet vous plaît, n'hésitez pas à lâcher une étoile 😋 !
