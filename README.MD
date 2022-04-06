@@ -14,7 +14,7 @@
 <br>
 
 ## 📰 A propos <a name="about"></a>
-Voici un bot Discord déjà tout fait rien que pour vous afin de simplifier la modération de vos serveurs de pub ! Ce bot inclut plusieurs options telles que les avertissements et le classements des meilleurs vérificateurs... 
+Voici un bot Discord déjà tout fait rien que pour vous afin de simplifier la modération de vos serveurs de pub ! Ce bot inclut plusieurs options telles que les avertissements et le classement des meilleurs vérificateurs... 
 Tout ce que vous avez à faire est de **suivre les [Instructions](#instructions)** et de mettre le bot en ligne !
 <br>
 
@@ -24,11 +24,11 @@ Tout ce que vous avez à faire est de **suivre les [Instructions](#instructions)
 * [Git.](https://git-scm.com/downloads)
 * [Un bot Discord](https://discord.com/developers/applications/) avec son token et avec les [Privileged Gateway Intents activés.](https://github.com/RenardNocturne/DiscordJS-Pub-Bot/blob/master/Images/Intents.jpg?raw=true)
 
-#### 🔨 Installation <a name="installation">
+#### 🔨 Installation: <a name="installation">
 * Ouvrir un `cmd`.
 * Enter la ligne de commande suivante: `git clone https://github.com/RenardNocturne/DiscordJS-Pub-Bot.git`.
 * Un nouveau dossier nommé `DiscordJS-Pub-Bot` vient d'être créé !
-* Entrez cette ligne dans votre invite de commande: `cd <in vers le nouveau dossier>`.
+* Entrez cette ligne dans votre invite de commande: `cd <chemin vers le nouveau dossier>`.
 * Entrez `npm install` dans votre invite de commande.
 * Entrez `node init.js` dans votre invite de commande. Merci de répondre aux questions qui s'affichent désormais dans votre invite de commande, cela créera un nouveau fichier nommé `config.js` au sein de votre dossier. 
 * Entrez cette dernière commande dans votre invite de commande: `node index.js`.
