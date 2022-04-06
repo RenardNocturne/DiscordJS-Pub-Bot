@@ -26,7 +26,7 @@ Tout ce que vous avez à faire est de **suivre les [Instructions](#instructions)
 
 #### 🔨 Installation: <a name="installation">
 * Ouvrir un `cmd`.
-* Enter la ligne de commande suivante: `git clone https://github.com/RenardNocturne/DiscordJS-Pub-Bot.git`.
+* Entrez la ligne de commande suivante: `git clone https://github.com/RenardNocturne/DiscordJS-Pub-Bot.git`.
 * Un nouveau dossier nommé `DiscordJS-Pub-Bot` vient d'être créé !
 * Entrez cette ligne dans votre invite de commande: `cd <chemin vers le nouveau dossier>`.
 * Entrez `npm install` dans votre invite de commande.
