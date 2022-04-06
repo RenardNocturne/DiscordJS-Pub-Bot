@@ -1,3 +1,14 @@
+console.log(`
+██████╗ ██╗   ██╗██████╗     ██████╗  ██████╗ ████████╗
+██╔══██╗██║   ██║██╔══██╗    ██╔══██╗██╔═══██╗╚══██╔══╝
+██████╔╝██║   ██║██████╔╝    ██████╔╝██║   ██║   ██║   
+██╔═══╝ ██║   ██║██╔══██╗    ██╔══██╗██║   ██║   ██║   
+██║     ╚██████╔╝██████╔╝    ██████╔╝╚██████╔╝   ██║   
+╚═╝      ╚═════╝ ╚═════╝     ╚═════╝  ╚═════╝    ╚═╝                                                    
+
+By RenardNocturne \n\n`);
+
+
 const { loadEvents, loadButtons, loadCommands } = require('./Utils/loader')
 const { Intents, Client, Collection} = require('discord.js');
 
@@ -12,5 +23,4 @@ loadButtons(client);
 
 client.config = require('./Utils/config');
 
-console.log(client.config.TOKEN);
 client.login(client.config.TOKEN).catch(err => console.error("❌ I can't log in ! Have you forgot to run node .\\init.js ? Have you provided a valid token ? \n \n Error:" + err));

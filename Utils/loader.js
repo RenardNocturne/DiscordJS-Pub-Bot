@@ -7,7 +7,7 @@ const loadCommands = (bot, dir = './Commands') => {
         for (const file of commands) {
         const getFileName = require(`../${dir}/${dirs}/${file}`);
         bot.commands.set(getFileName.help.name, getFileName);
-        console.log(`La commande ${getFileName.help.name} a bien été chargée !`);
+        console.log(`✅ La commande ${getFileName.help.name} a bien été chargée !`);
         };
     });
 };
